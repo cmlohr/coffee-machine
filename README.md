@@ -1,4 +1,1 @@
-Coffee Machine
-This coffee kiosk/machine makes Espresso, Latte, and Cappuccino.
-type 'help' to view the instructions and commands menu.
-
+This coffee kiosk/machine app operates from the console and makes makes Espresso, Latte, and Cappuccino based on the resources available.  It tracks and tabulates the stock, currency and bank . Type 'help' to view the instructions and commands menu.  #Python
